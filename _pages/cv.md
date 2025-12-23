@@ -56,6 +56,6 @@ Experience
   
 Service and leadership
 ======
-* Governor Transport Departmnt Federal University of Technlogy Akure
-* George Mason University RSO leader
+* Governor Transport Department, Federal University of Technology Akure
+* George Mason University RSO President
 
