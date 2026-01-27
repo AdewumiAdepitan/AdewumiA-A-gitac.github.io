@@ -1,7 +1,7 @@
 ---
 title: "Learning Minimally-Congested Drive Times from Sparse Open Networks: A Lightweight RF-Based Estimator for Urban Roadway Operations"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/minimally-congested-drive-times-smile-2026
 date: 2026-01-04
 venue: "2nd International Conference on Smart Mobility and Logistics Ecosystems (SMILE 2026)"

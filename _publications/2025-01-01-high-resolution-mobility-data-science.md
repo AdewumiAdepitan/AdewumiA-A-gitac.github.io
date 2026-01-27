@@ -7,7 +7,8 @@ date: 2025-01-01
 venue: "International Journal of Science and Engineering Applications (IJSEA)"
 paperurl: "https://doi.org/10.7753/IJSEA1407.1014"
 citation: "Adegoke, O., Adepitan, A. A., & Kwakye, S. (2025). High-resolution mobility data science for urban transportation policy, demand forecasting, and infrastructure investment prioritization. *International Journal of Science and Engineering Applications*, 14(7), 82–97. https://doi.org/10.7753/IJSEA1407.1014"
-author: "Adewumi A. Adepitan"
+author_profile: true
+author: "Name Name"
 ---
 
 **Journal Article (Published, 2025)**  

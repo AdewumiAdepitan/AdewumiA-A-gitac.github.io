@@ -7,9 +7,10 @@ date: 2026-01-01
 venue: "International Journal of Engineering Technology Research & Management (IJETRM)"
 paperurl: "https://doi.org/10.5281/zenodo.18320761"
 citation: "Adepitan, A. A., Adegoke, O., & Kwakye, S. (2026). Causal and graph-based data science models for freight transportation reliability, bottleneck prediction, and network risk mitigation. *International Journal of Engineering Technology Research & Management (IJETRM)*, 10(1). https://doi.org/10.5281/zenodo.18320761"
-author: "Adewumi A. Adepitan"
----
+author_profile: true
+author: "Name Name"
 
+---
 **Journal Article (Published, January 2026)**  
 
 - **Journal:** International Journal of Engineering Technology Research & Management (IJETRM)  
