@@ -1,5 +1,5 @@
 ---
-title: "Modeling Active Transportation Demand using GIS-Integrated Spatial Econometrics to Evaluate Infrastructure Accessibility, Sustainability, and Equity in Urban Mobility"
+title: "A Review on Modeling Active Transportation Demand using GIS-Integrated Spatial Econometrics to Evaluate Infrastructure Accessibility, Sustainability, and Equity in Urban Mobility"
 collection: publications
 category: manuscripts
 permalink: /publication/active-transport-demand-gis-spatial-econometrics
